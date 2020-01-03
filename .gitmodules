@@ -1,0 +1,3 @@
+[submodule "Vue-Parts"]
+	path = Vue-Parts
+	url = https://github.com/natechris-devine/books-vue-crud.git
